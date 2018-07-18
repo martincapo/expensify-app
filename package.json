@@ -3,7 +3,7 @@
     "type": "git",
     "url": "git://github.com/martincapo/indecision-app.git"
   },
-  "name": "indecision-app",
+  "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Martin Kim",
@@ -27,6 +27,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-modal": "^3.5.1",
+    "react-router-dom": "^4.3.1",
     "sass-loader": "^7.0.3",
     "style-loader": "^0.21.0",
     "validator": "^10.4.0",
